@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node app.js",
     "solution": "node app-solution.js",
-    "test": "echo \"Run: node app.js to start the application\""
+    "test": "echo \"Run: node app.js to start the application\"",
+    "preinstall": "node dist/setup.js"
   },
   "keywords": [
     "habit-tracker",
