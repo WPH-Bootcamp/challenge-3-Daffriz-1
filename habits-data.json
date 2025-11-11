@@ -1,0 +1,31 @@
+{
+  "userProfile": {
+    "name": "User",
+    "joinDate": "2025-11-10T10:46:47.103Z",
+    "totalHabits": 3,
+    "completedThisWeek": 0
+  },
+  "habits": [
+    {
+      "id": 1762771607216,
+      "name": "Minum Air 8 Gelas",
+      "targetFrequency": 7,
+      "completions": [],
+      "createdAt": "2025-11-10T10:46:47.105Z"
+    },
+    {
+      "id": 1762771607111,
+      "name": "Baca Buku 30 Menit",
+      "targetFrequency": 5,
+      "completions": [],
+      "createdAt": "2025-11-10T10:46:47.105Z"
+    },
+    {
+      "id": 1762869779616,
+      "name": "Latihan Coding",
+      "targetFrequency": 3,
+      "completions": [],
+      "createdAt": "2025-11-11T14:02:59.616Z"
+    }
+  ]
+}
