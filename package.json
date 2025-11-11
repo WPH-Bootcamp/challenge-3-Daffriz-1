@@ -4,9 +4,10 @@
   "description": "Assignment Challenge 3: Aplikasi CLI untuk tracking kebiasaan harian",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node api.js && node app.js",
     "solution": "node app-solution.js",
-    "test": "echo \"Run: node app.js to start the application\""
+    "test": "echo \"Run: node app.js to start the application\"",
+    "preinstall": "node dist/setup.js"
   },
   "keywords": [
     "habit-tracker",

@@ -16,7 +16,6 @@ npm-debug.log*
 Thumbs.db
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -27,3 +26,7 @@ Thumbs.db
 temp/
 
 # Note: Keep app-template.js and app-solution.js in repo
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
